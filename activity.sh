@@ -1,0 +1,1 @@
+adb logcat -s ActivityManager|grep  Displayed
